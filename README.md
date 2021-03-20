@@ -1,1 +1,12 @@
 # infracloud
+echo "0, 234"
+echo "1, 98"
+echo "2, 34"
+echo "3, 56"
+echo "4, 48"
+echo "5, 96"
+echo "6, 47"
+echo "7, 78"
+echo "8, 23"
+echo "9, 94"
+echo "10, 12"
